@@ -1,3 +1,0 @@
-/home/abdessittir/programming/cpp/student-management-system/build/CMakeFiles/App.dir
-/home/abdessittir/programming/cpp/student-management-system/build/CMakeFiles/edit_cache.dir
-/home/abdessittir/programming/cpp/student-management-system/build/CMakeFiles/rebuild_cache.dir
